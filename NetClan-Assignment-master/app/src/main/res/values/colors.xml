@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#7B9DDD</color>
+    <color name="purple_500">#043B9C</color>
+    <color name="purple_700">#4584F1</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FFFFFF</color>
+    <color name="white">#1C4084</color>
+    <color name="TitleBar">#4585F2</color>
+    <color name="Tabs">#9DBBF1</color>
+    <color name="btnEnabledBG">#2369E0</color>
+    <color name="btnEnabledFG">#FFFFFF</color>
+    <color name="btnDisableBG">#FFFFFF</color>
+    <color name="btnDisableFG">#2369E0</color>
+</resources>
